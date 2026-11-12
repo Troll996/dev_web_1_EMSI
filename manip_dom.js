@@ -17,3 +17,6 @@ console.log(introPar.textContent);
 const premierNoeud= introPar.firstChild;
 console.log(premierNoeud.nodeType);
 console.log(premierNoeud.nodeName);
+
+// EX6
+const lien = document.getElementById("ressource")
